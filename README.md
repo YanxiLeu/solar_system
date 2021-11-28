@@ -1,17 +1,19 @@
-# Solar System:milky_way:
+# :milky_way: Solar System
 
- My goal is to boil this fking data universe. :earth_asia:
+ :earth_asia: My goal is to boil this fking data universe. 
 
-The study path I am following is [this][https://youtu.be/LHBE6Q9XlzI]. And I aim to have a broad sense of following 4 main skills:
+The study path I am following is [this][https://youtu.be/LHBE6Q9XlzI]. I aim to have a broad sense of following 4 main skills:
 
 - basic python
 - basic numpy
 - basic pandas
 - basic matplotlib
 
-
+*basic means the fundamental rules and logic of each subject. 
 
 # 1.Python
+
+​		
 
 
 
@@ -24,3 +26,5 @@ The study path I am following is [this][https://youtu.be/LHBE6Q9XlzI]. And I aim
 
 
 # 4.Matplotlib
+
+[https://youtu.be/LHBE6Q9XlzI]: 
