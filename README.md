@@ -1,5 +1,6 @@
-# Solar System:sun_with_face:
- My goal is to boil this fking data universe. :smile_cat:
+# Solar System:milky_way:
+
+ My goal is to boil this fking data universe. :earth_asia:
 
 The study path I am following is [this][https://youtu.be/LHBE6Q9XlzI]. And I aim to have a broad sense of following 4 main skills:
 
