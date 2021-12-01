@@ -1,3 +1,5 @@
+
+
 # :milky_way: Solar System
 
  :earth_asia: My goal is to boil this fking data universe. 
@@ -22,17 +24,25 @@ The study path I am following is [this][https://youtu.be/LHBE6Q9XlzI]. I aim to 
 
  1.12 Code
 
-- | TYPE    | DEFINATION                                        |
-  | :------ | ------------------------------------------------- |
-  | %whos   | to check total current variable numbers and value |
-  | print() | show the information                              |
-  | type()  | show the data type                                |
+- | TYPE            | DEFINATION                                        |
+  | :-------------- | ------------------------------------------------- |
+  | %whos           | to check total current variable numbers and value |
+  | print()         | show the information                              |
+  | type()          | show the data type                                |
+  | round(amount,#) | # stands for the decimal place                    |
+  | help()          | to get function usage definition                  |
+  | int(input())    | open a input box to enter integer                 |
+  | elif            | else if                                           |
 
-  *video end at 02:09:21
+  1.13 Bool
 
+| Symbol | Task performed        |
+| ------ | --------------------- |
+| ==     | Ture, if it is equal  |
+| !=     | Ture, if not equal to |
+|        |                       |
 
-
-
+*the video ends at 04:04:00
 
 
 
